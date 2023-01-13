@@ -1,1 +1,2 @@
-"Maggie Liu" 
+Maggie Liu
+liumar@oregonstate.edu
